@@ -1,7 +1,6 @@
 
 # csda 1050
 
-### Sprint
-Describe what is in here. 
-Describe what is needed to be done to run it. 
-Describe what the purpose/results/findings were. 
+### Sprint 3
+* Here you will find the final report in a pdf document explaining all the steps
+* Also you will find the power point document with audio https://1drv.ms/p/s!AhOBDDtkkBk4hr0x8oMUUt3AcSFulg?e=e95MHk 
