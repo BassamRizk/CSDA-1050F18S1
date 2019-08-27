@@ -1,4 +1,6 @@
-# CSDA1050-master
-Final Results
--Need a presentation (ppt, video, etc. - must be explict and self guided) - no more than 10 minutes...seriously
--Need a writeup report of findings (Markdown/PDF - research paper format) - likely 5-10 pages... keep in mind you don't have infinite time. 
+# csda 1050
+## Bassam Rizk YU# 303525
+
+### Final
+* Here you will find the final report in a pdf document explaining all the steps
+* Also you will find the power point document with audio https://1drv.ms/p/s!AhOBDDtkkBk4hr0x8oMUUt3AcSFulg?e=e95MHk 
