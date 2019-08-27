@@ -15,19 +15,18 @@ The key challenge in selecting a good straddle opportunity would be predicting w
 # Research Question
 What is the highest reachable consistency in screening stocks that will exhibit abnormal price volatility at a foreseeable market or stock event (dividends announcement…)? 
 
-# What I did
-As part of data acquisition & exploration; consolidate, transform & clean key variables of S&P100 stocks:
-* Download individual stock information (high, low, open & close…)
-* Capture dividend events (amounts & date) and merge it with data set
-* Measure overnight and high/low stock price volatility during the last 12 years
-* Perform rounds of cleaning of NAs and transform all values into numeric.
-* Merge all 100 individual stock information into 1 data set
-* Divide this data into training (70%), validation (15%) and testing (15%) sets
+## What I did?
+# data acquisition & exploration; consolidate, transform & clean key variables of S&P100 stocks:
+* Downloaded individual stock information (high, low, open & close…)
+* Captured dividend events (amounts & date) and merged it with data set
+* Measured overnight and high/low stock price volatility during the last 12 years
+* Performed rounds of cleaning of NAs and transform all values into numeric.
+* Merged all 100 individual stock information into 1 data set
+* Divided this data into training (70%), validation (15%) and testing (15%) sets
+* Ran a principal component analysis - on training data set
+* Clustering for optimal straddle opportunities using training data set and targeting prediction of HLPPC – High Low Percentage Price Change
 
-Using training data sets: Targeted prediction of HLPPC – High Low Percentage Price Change
-      Run a principal component analysis
-      Clustering for optimal straddle opportunities using multi variables 
-3 different models
+# Models used
 * Decision Trees
 * Neural Network
 * Linear regression
